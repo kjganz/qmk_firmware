@@ -1,0 +1,5 @@
+MOUSEKEY_ENABLE = yes       # Mouse keys
+TAP_DANCE_ENABLE = no
+
+COMBO_ENABLE = yes
+BACKLIGHT_LIMIT_VAL = 200
