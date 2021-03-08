@@ -88,11 +88,11 @@ NOTE: These are all the same length.  If you do a search/replace
 
 #define _________________RAISE_L1__________________        _______, KC_HOME, KC_UP,   KC_END,  _______
 #define _________________RAISE_L2__________________        KC_HYPR, KC_LEFT, KC_DOWN, KC_RGHT, _______
-#define _________________RAISE_L3__________________        _______, _______, KC_PGDN, KC_PGUP, _______,
+#define _________________RAISE_L3__________________        _______, _______, KC_PGDN, KC_PGUP, _______
 
 #define _________________RAISE_R1__________________        _______, KC_LBRC, KC_RBRC, _______, KC_CAPS
 #define _________________RAISE_R2__________________        _______, KC_LCBR, KC_RCBR, _______, KC_QUOT
-#define _________________RAISE_R3__________________        _______, _______, _______, _______, _______,
+#define _________________RAISE_R3__________________        _______, _______, _______, _______, _______
 // END 5 COLUMN LAYOUT
 
 
@@ -105,7 +105,7 @@ NOTE: These are all the same length.  If you do a search/replace
 #define ______________6_COL_COLEMAK_R1_____________       _________________COLEMAK_R1________________, KC_DEL
 #define ______________6_COL_COLEMAK_R2_____________       _________________COLEMAK_R1________________, KC_QUOT
 #define ______________6_COL_COLEMAK_R3_____________       _________________COLEMAK_R1________________, KC_RSFT
-#define ____________6_COL_ALT_COLEMAK_R3___________       _______________ALT_COLEMAK_R3______________, KC_RSFT,
+#define ____________6_COL_ALT_COLEMAK_R3___________       _______________ALT_COLEMAK_R3______________, KC_RSFT
 
 
 #define ______________6_COL_LOWER_L1_______________        _______, _________________LOWER_L1__________________
