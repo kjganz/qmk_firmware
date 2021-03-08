@@ -5,5 +5,5 @@
 #define ENT_LWR LT(_LOWER, KC_ENT)
 #define BSP_LWR LT(_LOWER, KC_BSPC)
 
-#define Z_LSFT     MT(MOD_LSFT, KC_Z)
-#define SLASH_RSFT MT(MOD_RSFT, KC_SLASH)
+#define Z_LSFT    MT(MOD_LSFT, KC_Z)
+#define SLSH_RSFT MT(MOD_RSFT, KC_SLASH)
