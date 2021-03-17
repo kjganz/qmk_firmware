@@ -24,7 +24,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         __________________6_COL_COLEMAK_L1__________________, __________________6_COL_COLEMAK_R1__________________,
         __________________6_COL_COLEMAK_L2__________________, __________________6_COL_COLEMAK_R2__________________,
         ________________6_COL_ALT_COLEMAK_L3________________, ________________6_COL_ALT_COLEMAK_R3________________,
-        KC_LCTL,                   KC_LGUI, BSP_LWR, SPC_RSE, ENT_LWR, TAB_RSE, KC_RALT,               MO(_ADJUST)
+        KC_LCTL,                   ______3_COL_BASE_L4______, ______3_COL_BASE_R4______,                    ADJUST
     ),
     [_LOWER] = LAYOUT_1u_wrapper(
         ___________________6_COL_LOWER_L1___________________, ___________________6_COL_LOWER_R1___________________,
