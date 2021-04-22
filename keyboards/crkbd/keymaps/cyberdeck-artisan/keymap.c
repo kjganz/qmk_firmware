@@ -24,7 +24,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [_COLEMAK] = LAYOUT_split_3x6_3_wrapper(
         __________________6_COL_COLEMAK_L1__________________, __________________6_COL_COLEMAK_R1__________________,
         __________________6_COL_COLEMAK_L2__________________, __________________6_COL_COLEMAK_R2__________________,
-        __________________6_COL_COLEMAK_L3__________________, __________________6_COL_COLEMAK_R3__________________,
+        ________________6_COL_ALT_COLEMAK_L3________________, ________________6_COL_ALT_COLEMAK_R3________________,
                                    ______3_COL_BASE_L4______, ______3_COL_BASE_R4______
     ),
 
