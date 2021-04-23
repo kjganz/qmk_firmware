@@ -95,14 +95,14 @@ NOTE: These are all the same length.  If you do a search/replace
 #define _________________RAISE_L2__________________       KC_HYPR, KC_LEFT, KC_DOWN, KC_RGHT, _______
 #define _________________RAISE_L3__________________       _______, _______, KC_PGDN, KC_PGUP, _______
 
-#define _________________RAISE_R1__________________       _______, KC_LBRC, KC_RBRC, _______, KC_CAPS
+#define _________________RAISE_R1__________________        ADJUST, KC_LBRC, KC_RBRC, _______, KC_CAPS
 #define _________________RAISE_R2__________________       _______, KC_LCBR, KC_RCBR, _______, KC_QUOT
 #define _________________RAISE_R3__________________       _______, _______, _______, _______, _______
 
 
-#define _________________ADJUST_L1_________________       RGB_TOG, RGB_VAI, RGB_SAI, RGB_HUI, _______
+#define _________________ADJUST_L1_________________       RGB_TOG, RGB_HUI, RGB_SAI, RGB_VAI, _______
 #define _________________ADJUST_L2_________________       _________________FUNC_LEFT_________________
-#define _________________ADJUST_L3_________________       _______, RGB_VAD, RGB_SAD, RGB_HUD, _______
+#define _________________ADJUST_L3_________________       _______, RGB_SPI, RGB_MODE_FORWARD, RGB_MODE_PLAIN, _______
 
 #define _________________ADJUST_R1_________________       _______, _______, _______, _______, _______
 #define _________________ADJUST_R2_________________       _________________FUNC_RIGHT________________
