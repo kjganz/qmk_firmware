@@ -18,3 +18,5 @@
 /* Combos */
 #define COMBO_COUNT 5
 #define COMBO_TERM 50
+
+#define LAYOUT_33_split_space_wrapper(...) LAYOUT_33_split_space(__VA_ARGS__)
